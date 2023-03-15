@@ -3,7 +3,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: linear-gradient(to right, #3494E6, #EC6EAD);
+    background: linear-gradient(to right, #2196f3, #f44336);
     font-family: 'Poppins', sans-serif;
 }
 
