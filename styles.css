@@ -49,3 +49,7 @@ body {
     padding: 1rem 0;
     color: white;
 }
+
+p {
+    padding: 0rem;
+}
