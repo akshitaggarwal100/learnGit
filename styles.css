@@ -9,6 +9,12 @@ body {
 
 .heading {
     color: white;
+    margin: 3rem 0 0;
+}
+
+.tagline {
+    color: white;
+    margin: 0 0 3rem;
 }
 
 .form {
